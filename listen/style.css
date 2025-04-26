@@ -1,0 +1,29 @@
+h1{
+    color:white;
+    background-color: #076177;
+    text-align: center;
+}
+button{
+    justify-content: center;
+}
+.input-coutainer{
+justify-content: center;
+display: flex;
+}
+.input-coutainer input{
+width: 50%;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div button{
+    color: #076177;
+    background-color: #e4efed;
+    width: 150;
+    border-radius: 10%;
+}
+body{
+    background-color: #076177;
+}
